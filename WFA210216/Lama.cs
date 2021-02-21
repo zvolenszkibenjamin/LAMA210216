@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CA210216
+namespace WFA210216
 {
     public class Lama
     {
@@ -11,13 +11,13 @@ namespace CA210216
         }
 
         public readonly string Nev;
-        public readonly ushort Eletkor;
+        public readonly ushort SzulEv;
         public readonly Izek KedvencIz;
 
         public Lama(string nev, ushort szulEv, Izek kedvencIz)
         {
             Nev = nev;
-            Eletkor = (ushort) (DateTime.Now.Year - szulEv);
+            SzulEv = szulEv;
             KedvencIz = kedvencIz;
         }
     }
