@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.LAMA210216.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\_Prog\CSharp\_Suli\LAMA210216\.idea\.idea.LAMA210216\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
